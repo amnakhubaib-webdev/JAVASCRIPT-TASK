@@ -122,26 +122,15 @@
 // array and total number of items remaining.
 
 
+// var items = ["pizza", "burger", "french fries", "cold drink", "ice-cream"];
 
-
-
-
-
-
-
-// var items = ["Pizza", "Burger", "Cold drink", "Ice-cream", "French Fries"]
-// var itemPosition = prompt("Enter the Position of item You want to remove: 1. Pizza 2. Burger 3. Cold drink 4. Ice-cream 5. French Fries")
-// console.log(items)
-
-
-
-
-
-
-
-
-
-
+// console.log(items);
+// var userInput = + prompt("Which food position you want to change? 0. pizza 1. burger 2. french fries 3. cold drink");
+// var removeitem = items.splice(userInput, 1);
+// var left = ("remaining items is 8")
+// console.log("The removed item is:" + removeitem);
+// console.log(`The remaining items are: ${items}`);
+// console.log(`Total items remaining: ${items.length}`);
 
 
 
